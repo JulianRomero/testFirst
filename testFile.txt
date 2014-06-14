@@ -1,5 +1,6 @@
-I deleted everything so what.
+some small changes
 
+<<<<<<< HEAD
 
 What a mess
 
@@ -7,3 +8,8 @@ What a mess
 No way man
 
 
+=======
+and more and more
+
+Some beter updates
+>>>>>>> parent of 958f4f7... Some drastic change
