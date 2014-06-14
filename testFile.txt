@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 I deleted everything so what.
 
+=======
+some small changes
+>>>>>>> parent of 8eb0c40... yeah some more
 =======
 some small changes
 >>>>>>> parent of 8eb0c40... yeah some more
